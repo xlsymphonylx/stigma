@@ -11,7 +11,6 @@
             <div class="form-group w-100">
                 <input type="text" class="form-control" id="name" placeholder="Buscar por nombre" name="name">
             </div>
-
             <div>
                 <button type="submit" class="btn btn-primary ml-2">Buscar</button>
             </div>
